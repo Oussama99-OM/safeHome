@@ -15,9 +15,8 @@ In order to run this program please follow the instructions below:
 
 ## ### Prerequisites
 
- 
-
- - Setup JDK
+ - Install JDK (version 8 or higher)
+ - 
 
 ## ### Installing
 
@@ -150,6 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NTc1NDIyLC0xMzkxNDM3NzkzLC01NT
+eyJoaXN0b3J5IjpbNjU2MDM1MTU0LC0xMzkxNDM3NzkzLC01NT
 E5MDM4NjEsLTIzNjI3MDE1LDE0OTMxMDM2NF19
 -->
