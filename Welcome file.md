@@ -11,12 +11,13 @@ Our objective is to facilitate the access the access to this service and consequ
 
 In order to run this program please follow the instructions below:
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+
 
 ## ### Prerequisites
 
+ 
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+ - Setup JDK
 
 ## ### Installing
 
@@ -149,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTY5MzcwOSwtMTM5MTQzNzc5MywtNT
-UxOTAzODYxLC0yMzYyNzAxNSwxNDkzMTAzNjRdfQ==
+eyJoaXN0b3J5IjpbMjM0NTc1NDIyLC0xMzkxNDM3NzkzLC01NT
+E5MDM4NjEsLTIzNjI3MDE1LDE0OTMxMDM2NF19
 -->
