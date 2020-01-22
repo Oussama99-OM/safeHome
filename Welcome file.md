@@ -1,6 +1,8 @@
 # SafeHome!
 
-Hi! Welcome to....(project description here)
+Hi! Welcome to the McGill Launch Pad.
+SafeHome
+....(project description here)
 
 
 # Getting Started
@@ -13,7 +15,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
-## Switch to another file
+## ### Installing
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
@@ -144,5 +146,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjExNDc2ODFdfQ==
+eyJoaXN0b3J5IjpbMTQ5MzEwMzY0XX0=
 -->
