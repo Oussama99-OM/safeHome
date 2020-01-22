@@ -1,7 +1,7 @@
 # SafeHome!
 
 Hi! Welcome to the McGill Launch Pad.
-SafeHome is an initiative taken by McGill students b
+SafeHome is an initiative taken by the Launch Pad to create an online pla
 ....(project description here)
 
 
@@ -146,5 +146,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzAyMDcxNywxNDkzMTAzNjRdfQ==
+eyJoaXN0b3J5IjpbMTI4Mzk5Njc4MiwxNDkzMTAzNjRdfQ==
 -->
