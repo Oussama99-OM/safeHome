@@ -5,11 +5,11 @@ Hi! Welcome to....(project description here)
 
 # Getting Started
 
-In order to run this program please follow the instructio
+In order to run this program please follow the instructions below:
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
-## Create files and folders
+## ### Prerequisites
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -144,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTk5MTgzOF19
+eyJoaXN0b3J5IjpbLTIxMjExNDc2ODFdfQ==
 -->
