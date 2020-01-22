@@ -16,6 +16,8 @@ In order to run this program please follow the instructions below:
 ## ### Prerequisites
 
  - Install JDK (version 8 or higher)
+ - Install maven (-[https://maven.apache.org/download.cgi](https://maven.apache.org/download.cgi))
+ - http://www.oracle.com/technetwork/java/javase/downloads/index.html
  - 
 
 ## ### Installing
@@ -149,6 +151,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MDM1MTU0LC0xMzkxNDM3NzkzLC01NT
-E5MDM4NjEsLTIzNjI3MDE1LDE0OTMxMDM2NF19
+eyJoaXN0b3J5IjpbLTE4NzkzOTY0ODQsLTEzOTE0Mzc3OTMsLT
+U1MTkwMzg2MSwtMjM2MjcwMTUsMTQ5MzEwMzY0XX0=
 -->
