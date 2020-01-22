@@ -15,6 +15,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 ## ### Prerequisites
 
+
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
 ## ### Installing
@@ -148,6 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE0Mzc3OTMsLTU1MTkwMzg2MSwtMj
-M2MjcwMTUsMTQ5MzEwMzY0XX0=
+eyJoaXN0b3J5IjpbMTI2MTY5MzcwOSwtMTM5MTQzNzc5MywtNT
+UxOTAzODYxLC0yMzYyNzAxNSwxNDkzMTAzNjRdfQ==
 -->
