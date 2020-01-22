@@ -1,7 +1,8 @@
 # SafeHome!
 
 Hi! Welcome to the McGill Launch Pad.
-SafeHome is an initiative taken by the Launch Pad to create an online platform for WalkSafe & DriveSafe. Unfortunately these McGill services were not getting enough attention from the students. 
+SafeHome is an initiative taken by the Launch Pad to create an online platform for WalkSafe & DriveSafe. 
+Unfortunately these McGill services were not getting enough attention from the students. 
 Our objective is to facilitate the access t
 ....(project description here)
 
@@ -147,6 +148,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTkwMzg2MSwtMjM2MjcwMTUsMTQ5Mz
-EwMzY0XX0=
+eyJoaXN0b3J5IjpbNzk0NjQ3MjI1LC01NTE5MDM4NjEsLTIzNj
+I3MDE1LDE0OTMxMDM2NF19
 -->
