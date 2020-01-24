@@ -17,7 +17,7 @@ In order to run this program please follow the instructions below:
 
  - Install JDK (version 8 or higher, http://www.oracle.com/technetwork/java/javase/downloads/index.html)
  - Install maven https://maven.apache.org/download.cgi
- - 
+ - (optional: we recommend using IntelliJ as an IDE for Spring projects)
 
 ## ### Installing
 
@@ -150,6 +150,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTI4MzA4NiwtMTM5MTQzNzc5MywtNT
-UxOTAzODYxLC0yMzYyNzAxNSwxNDkzMTAzNjRdfQ==
+eyJoaXN0b3J5IjpbLTE1Njg5OTc5NzcsMTQzOTI4MzA4NiwtMT
+M5MTQzNzc5MywtNTUxOTAzODYxLC0yMzYyNzAxNSwxNDkzMTAz
+NjRdfQ==
 -->
