@@ -35,6 +35,10 @@ In order to run this program please follow the instructions below:
 ## Versioning
 
 ## Authors
+
+## License
+
+## Acknowledgments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE5NjQxMzNdfQ==
+eyJoaXN0b3J5IjpbLTgzOTQwMjg0Ml19
 -->
