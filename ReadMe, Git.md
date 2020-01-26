@@ -31,6 +31,7 @@ In order to run this program please follow the instructions below:
 ## Built With
 
 ## Contributing
+Follow this link to see the contributing guidelines
 
 ## Versioning
 
@@ -40,5 +41,5 @@ In order to run this program please follow the instructions below:
 
 ## Acknowledgments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTQwMjg0Ml19
+eyJoaXN0b3J5IjpbLTY5NTk3NzcwMywtODM5NDAyODQyXX0=
 -->
