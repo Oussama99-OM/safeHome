@@ -36,11 +36,15 @@ Follow this link to see the contributing guidelines: https://github.com/preyansh
 ## Versioning
 
 ## Authors
-This project was created by the McGill Launch Pad.
-Here are the names of the different students implicated in 
+The SafeHome Project was created by the McGill Launch Pad.
+Here are the names of the different students involved:
+
+ - Preyansh Kaushik
+ - Onur
+
 ## License
 
 ## Acknowledgments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk0NDc2MDQsLTgzOTQwMjg0Ml19
+eyJoaXN0b3J5IjpbMjA3MDIyMTkxMywtODM5NDAyODQyXX0=
 -->
