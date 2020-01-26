@@ -16,7 +16,7 @@ In order to run this program please follow the instructions below:
 
 ## ### Prerequisites
 
- - Install JDK (version 8 or higher, http://www.oracle.com/technetwork/java/javase/downloads/index.html )
+ - Install JDK (version 8 or higher, http://www.oracle.com/technetwork/java/javase/downloads/index.html)
  - Install maven https://maven.apache.org/download.cgi
  - (optional: we recommend using IntelliJ as an IDE for Spring projects)
 
@@ -49,6 +49,6 @@ Here are the names of the different students involved:
 
 ## Acknowledgments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzMwNzc4NDgsNjYxODk5Nzg5LC04Mz
-k0MDI4NDJdfQ==
+eyJoaXN0b3J5IjpbLTI5MjkyNjIzMCw2NjE4OTk3ODksLTgzOT
+QwMjg0Ml19
 -->
