@@ -40,11 +40,14 @@ The SafeHome Project was created by the McGill Launch Pad.
 Here are the names of the different students involved:
 
  - Preyansh Kaushik
- - Onur
+ - Onur Çaycı
+ - Himanshu Ranka
+ - Arya Akkus
+ - Oussama Mehdi
 
 ## License
 
 ## Acknowledgments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDIyMTkxMywtODM5NDAyODQyXX0=
+eyJoaXN0b3J5IjpbNjYxODk5Nzg5LC04Mzk0MDI4NDJdfQ==
 -->
