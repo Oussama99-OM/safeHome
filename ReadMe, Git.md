@@ -22,8 +22,6 @@ In order to run this program please follow the instructions below:
 
 ## Installing
 
-
-
 ## Running the Tests
 
 ## Deployment
@@ -49,6 +47,6 @@ Here are the names of the different students involved:
 
 ## Acknowledgments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjkyNjIzMCw2NjE4OTk3ODksLTgzOT
+eyJoaXN0b3J5IjpbMjA2MjAzMDM1MCw2NjE4OTk3ODksLTgzOT
 QwMjg0Ml19
 -->
