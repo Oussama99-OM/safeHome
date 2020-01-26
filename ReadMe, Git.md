@@ -46,8 +46,8 @@ Here are the names of the different students involved:
 ## License
 
 ## Acknowledgments
-//walksafe & d
+//mention walksafe & drivesafe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDUyNzQwLDIwNjIwMzAzNTAsNjYxOD
-k5Nzg5LC04Mzk0MDI4NDJdfQ==
+eyJoaXN0b3J5IjpbLTEzMDAzNzE5NywyMDYyMDMwMzUwLDY2MT
+g5OTc4OSwtODM5NDAyODQyXX0=
 -->
