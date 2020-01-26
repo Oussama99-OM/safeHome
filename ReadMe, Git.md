@@ -31,15 +31,16 @@ In order to run this program please follow the instructions below:
 ## Built With
 
 ## Contributing
-Follow this link to see the contributing guidelines
+Follow this link to see the contributing guidelines: https://github.com/preyansh98/safeHome/wiki/Contributing-Guidelines-👀.
 
 ## Versioning
 
 ## Authors
-
+This project was created by the McGill Launch Pad.
+Here are the names of the different students implicated in 
 ## License
 
 ## Acknowledgments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTk3NzcwMywtODM5NDAyODQyXX0=
+eyJoaXN0b3J5IjpbLTEyODk0NDc2MDQsLTgzOTQwMjg0Ml19
 -->
